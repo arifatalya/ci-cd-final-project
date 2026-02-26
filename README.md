@@ -5,6 +5,9 @@ This repository contains a Node.js/Express.js version of the counter service for
 ## Project Name
 ci-cd-final-project
 
+## Learner
+Aisyah Arifatul Alya
+
 ## Features
 
 - RESTful API for managing counters
